@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\message.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|solutionrelative:message.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\crypto_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|solutionrelative:dh\\crypto_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\prime.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|solutionrelative:dh\\prime.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\diffie_hellman.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|solutionrelative:dh\\diffie_hellman.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\primitive_root.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C76D1EA0-B4B8-41C9-8391-7DB0B3B38FDC}|DiffieHellman.pyproj|solutionrelative:dh\\primitive_root.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "message.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\message.txt",
+              "RelativeDocumentMoniker": "message.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\message.txt",
+              "RelativeToolTip": "message.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-16T13:17:17.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "diffie_hellman.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\diffie_hellman.py",
+              "RelativeDocumentMoniker": "dh\\diffie_hellman.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\diffie_hellman.py",
+              "RelativeToolTip": "dh\\diffie_hellman.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-16T11:36:04.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-16T11:28:50.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "crypto_utils.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\crypto_utils.py",
+              "RelativeDocumentMoniker": "dh\\crypto_utils.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\crypto_utils.py",
+              "RelativeToolTip": "dh\\crypto_utils.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-16T11:28:30.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "primitive_root.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\primitive_root.py",
+              "RelativeDocumentMoniker": "dh\\primitive_root.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\primitive_root.py",
+              "RelativeToolTip": "dh\\primitive_root.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-16T11:28:09.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prime.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\prime.py",
+              "RelativeDocumentMoniker": "dh\\prime.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\DiffieHellman\\dh\\prime.py",
+              "RelativeToolTip": "dh\\prime.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-16T11:27:54.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
