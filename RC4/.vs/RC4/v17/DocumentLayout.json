@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6534F45F-D4FF-4959-8F7C-EE694F1911C2}|RC4.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\rc4\\rc4_algorithm.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6534F45F-D4FF-4959-8F7C-EE694F1911C2}|RC4.pyproj|solutionrelative:rc4\\rc4_algorithm.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6534F45F-D4FF-4959-8F7C-EE694F1911C2}|RC4.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6534F45F-D4FF-4959-8F7C-EE694F1911C2}|RC4.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6534F45F-D4FF-4959-8F7C-EE694F1911C2}|RC4.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\data\\original.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6534F45F-D4FF-4959-8F7C-EE694F1911C2}|RC4.pyproj|solutionrelative:data\\original.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6534F45F-D4FF-4959-8F7C-EE694F1911C2}|RC4.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\rc4\\file_encryptor.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6534F45F-D4FF-4959-8F7C-EE694F1911C2}|RC4.pyproj|solutionrelative:rc4\\file_encryptor.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-17T12:38:24.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "original.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\data\\original.txt",
+              "RelativeDocumentMoniker": "data\\original.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\data\\original.txt",
+              "RelativeToolTip": "data\\original.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-17T12:59:07.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "file_encryptor.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\rc4\\file_encryptor.py",
+              "RelativeDocumentMoniker": "rc4\\file_encryptor.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\rc4\\file_encryptor.py",
+              "RelativeToolTip": "rc4\\file_encryptor.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-17T12:53:19.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rc4_algorithm.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\rc4\\rc4_algorithm.py",
+              "RelativeDocumentMoniker": "rc4\\rc4_algorithm.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\RC4\\rc4\\rc4_algorithm.py",
+              "RelativeToolTip": "rc4\\rc4_algorithm.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-17T12:52:35.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
