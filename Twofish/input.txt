@@ -1,0 +1,26 @@
+﻿# Ключ шифрования (в hex формате) - 32 байта для 256-битного ключа
+key=00112233445566778899AABBCCDDEEFF00112233445566778899AABBCCDDEEFF
+
+# Режим шифрования: ecb, cbc, pcbc, cfb, ofb, ctr, randomdelta
+mode=ecb
+
+# Режим набивки: zeros, ansi_x923, pkcs7, iso_10126
+padding=pkcs7
+
+# Неприводимый полином для GF(2^8) (в hex)
+polynomial=0x11B
+
+# Вектор инициализации (для режимов, где требуется)
+iv=0123456789ABCDEF0123456789ABCDEF
+
+# Количество потоков для параллельной обработки
+threads=4
+
+# Операция: encrypt или decrypt
+operation=encrypt
+
+# Входной файл
+input=test.txt
+
+# Выходной файл
+output=test.enc

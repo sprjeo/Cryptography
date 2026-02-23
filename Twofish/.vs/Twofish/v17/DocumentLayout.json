@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|solutionrelative:test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|solutionrelative:config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\utils\\parallel_processor.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|solutionrelative:utils\\parallel_processor.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\utils\\file_handler.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|solutionrelative:utils\\file_handler.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\padding\\padding_schemes.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|solutionrelative:padding\\padding_schemes.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\modes\\encryption_modes.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|solutionrelative:modes\\encryption_modes.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\modes\\base_mode.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|solutionrelative:modes\\base_mode.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\core\\twofish.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|solutionrelative:core\\twofish.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\core\\gf256.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82D64899-C4AE-4234-A8B3-86F3C56FFE1C}|Twofish.pyproj|solutionrelative:core\\gf256.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "encryption_modes.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\modes\\encryption_modes.py",
+              "RelativeDocumentMoniker": "modes\\encryption_modes.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\modes\\encryption_modes.py",
+              "RelativeToolTip": "modes\\encryption_modes.py",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAOEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T22:15:27.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "padding_schemes.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\padding\\padding_schemes.py",
+              "RelativeDocumentMoniker": "padding\\padding_schemes.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\padding\\padding_schemes.py",
+              "RelativeToolTip": "padding\\padding_schemes.py",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T22:15:44.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "parallel_processor.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\utils\\parallel_processor.py",
+              "RelativeDocumentMoniker": "utils\\parallel_processor.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\utils\\parallel_processor.py",
+              "RelativeToolTip": "utils\\parallel_processor.py",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T22:16:10.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "base_mode.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\modes\\base_mode.py",
+              "RelativeDocumentMoniker": "modes\\base_mode.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\modes\\base_mode.py",
+              "RelativeToolTip": "modes\\base_mode.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T22:15:19.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "file_handler.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\utils\\file_handler.py",
+              "RelativeDocumentMoniker": "utils\\file_handler.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\utils\\file_handler.py",
+              "RelativeToolTip": "utils\\file_handler.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T22:16:01.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "config.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\config.py",
+              "RelativeDocumentMoniker": "config.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\config.py",
+              "RelativeToolTip": "config.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T22:14:42.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\input.txt",
+              "RelativeDocumentMoniker": "input.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\input.txt",
+              "RelativeToolTip": "input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-23T22:14:59.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAKIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T22:14:34.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\test.txt",
+              "RelativeDocumentMoniker": "test.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\test.txt",
+              "RelativeToolTip": "test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-23T22:18:27.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "twofish.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\core\\twofish.py",
+              "RelativeDocumentMoniker": "core\\twofish.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\core\\twofish.py",
+              "RelativeToolTip": "core\\twofish.py",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAI0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T22:14:26.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gf256.py",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\core\\gf256.py",
+              "RelativeDocumentMoniker": "core\\gf256.py",
+              "ToolTip": "C:\\Users\\User\\Desktop\\course_project\\Cryptography\\Twofish\\core\\gf256.py",
+              "RelativeToolTip": "core\\gf256.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T22:14:18.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
